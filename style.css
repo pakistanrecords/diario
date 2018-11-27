@@ -1,0 +1,57 @@
+a.squiffy-link
+{
+    text-decoration: none;
+    color: #0000ff;
+    cursor: pointer;
+}
+a.squiffy-link.disabled
+{
+    text-decoration: inherit;
+    color: #808080;
+    cursor: inherit;
+}
+a.squiffy-header-link
+{
+    text-decoration: none;
+    color: #ff0000;
+    cursor: pointer;
+}
+div#squiffy-container
+{
+    max-width: 640px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: serif;
+}
+div#squiffy-header
+{
+    font-family: sans-serif;
+    font-size: 12px;
+    text-align: right;
+}
+div#squiffy
+{
+    font-size: 18px;
+}
+h1, h2, h3 {
+    font-family: sans-serif;
+}
+hr {
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    margin-top: 16px; margin-bottom: 16px;
+}
+code {
+    width: 80ch;
+    font-family: monospace;
+    padding: 0.125rem 0.25rem;
+}
+img {
+    width: 100%;
+    max-width: 100%;
+}
+audio {
+    width: 100%;
+}
