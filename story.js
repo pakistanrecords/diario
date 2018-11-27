@@ -637,7 +637,7 @@ squiffy.story.sections = {
 		'text': "<h1 id=\"el-diario-de-fran-baxter\">El diario de Fran Baxter</h1>\n<p><a class=\"squiffy-link link-section\" data-section=\"3 y 4 de noviembre de 1996\" role=\"link\" tabindex=\"0\">3 y 4 de noviembre de 1996</a>. Un dos tres por mí y por mis nuevos amigos</p>\n<p><a class=\"squiffy-link link-section\" data-section=\"Día de la Virgen de Guadalupe de 2007\" role=\"link\" tabindex=\"0\">Día de la Virgen de Guadalupe de 2007</a>. </p>\n<p><a class=\"squiffy-link link-section\" data-section=\"10 de enero de 2009\" role=\"link\" tabindex=\"0\">10 de enero de 2009</a>. Y me gana el llanto al amanecer</p>\n<p><a class=\"squiffy-link link-passage\" data-passage=\"Pendientes\" role=\"link\" tabindex=\"0\">Pendientes</a> | <a class=\"squiffy-link link-passage\" data-passage=\"Créditos\" role=\"link\" tabindex=\"0\">Créditos</a> | <a class=\"squiffy-link link-passage\" data-passage=\"Licencia\" role=\"link\" tabindex=\"0\">Licencia</a></p>\n<p><a class=\"squiffy-link link-section\" data-section=\"_continue1\" role=\"link\" tabindex=\"0\">Empezar</a></p>",
 		'passages': {
 			'Pendientes': {
-				'text': "<h2 id=\"pendientes\">Pendientes</h2>\n<ul>\n<li>Material audiovisual.  </li>\n<li>Subir a GitHub.\n– Escribir proyecto.</li>\n</ul>",
+				'text': "<h2 id=\"pendientes\">Pendientes</h2>\n<ul>\n<li>Material audiovisual.<br>– Escribir proyecto.</li>\n</ul>",
 			},
 			'Créditos': {
 				'text': "<p>:)</p>",
