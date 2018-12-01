@@ -680,7 +680,10 @@ squiffy.story.sections = {
 				'text': "<p>Tampoco es que me falte calle: he tocado en un par de bandas y escribo sobre música para un periódico de Saltillo y varios fanzines del noreste del país.</p>",
 			},
 			'tesis': {
-				'text': "<p>Durante años, la única conexión que Fran Baxter tuvo con la realidad musical fue, irónicamente, su directora de tesis: Larissa Double-Coil, voz, guitarra y teclados de Los Turistas de Calcetín Blanco, banda mexicana de pop psicodélico más o menos conocida en el inframundo catalán en la que Fran Baxter militó durante un par de semanas hasta que les cayó la oportunidad de irse de gira por los países nórdicos. Fran Baxter tuvo que permanecer en Barcelona: eran fechas de exámenes.</p>",
+				'text': "<p>Durante años, la única conexión que Fran Baxter tuvo con la realidad musical fue, irónicamente, su directora de tesis: Larissa Double-Coil, voz, guitarra y teclados de Los Turistas de Calcetín Blanco, banda mexicana de pop psicodélico más o menos conocida en el inframundo catalán en la que Fran Baxter militó durante un par de semanas hasta que les cayó la oportunidad de irse de gira por los países nórdicos. Fran Baxter tuvo que permanecer en Barcelona: eran fechas de exámenes.</p>\n<p>Al mismo tiempo, en Tijuana, <a class=\"squiffy-link link-passage\" data-passage=\"Los Nebulosos Darwins estaban grabando su primer demo\" role=\"link\" tabindex=\"0\">Los Nebulosos Darwins estaban grabando su primer demo</a>.</p>",
+			},
+			'Los Nebulosos Darwins estaban grabando su primer demo': {
+				'text': "<p>Los Nebulosos Darwins, &quot;Mars Station&quot;, en el demo <em>mlktnch3</em> de 1995.  </p>\n<audio src=\"music/mars.mp3\" autoplay controls>",
 			},
 		},
 	},
@@ -699,11 +702,8 @@ squiffy.story.sections = {
 		},
 	},
 	'_continue7': {
-		'text': "<p>Hubiera fumado menos. {rotate:No tanto:No en la Rosita-Piedras, en la Pakisván, arriba de los cien kilómetros por hora, no:No}.<br>Los Nebulosos <a class=\"squiffy-link link-passage\" data-passage=\"pusieron su demo en el estéreo de la Pakisván\" role=\"link\" tabindex=\"0\">pusieron su demo en el estéreo de la Pakisván</a>. Ya quiero producirlos.  </p>\n<p><a class=\"squiffy-link link-section\" data-section=\"_continue8\" role=\"link\" tabindex=\"0\">%%%</a></p>",
+		'text': "<p>—Hubiera fumado menos —{rotate:no tanto:no en la Piedras-Rosita, en la Pakisván, arriba de los cien kilómetros por hora, no:o no}.<br>—¿Te sientes mal? Mubarak maneja.\n—No, gracias. No es nada.\nLos Nebulosos pusieron su demo en el estéreo de la Pakisván. Ya quiero producirlos.  </p>\n<p><a class=\"squiffy-link link-section\" data-section=\"_continue8\" role=\"link\" tabindex=\"0\">%%%</a></p>",
 		'passages': {
-			'pusieron su demo en el estéreo de la Pakisván': {
-				'text': "<p>Los Nebulosos Darwins, &quot;Mars Station&quot;, en el demo <em>mlktnch3</em> de 1995.  </p>\n<audio src=\"music/mars.mp3\" autoplay controls>",
-			},
 		},
 	},
 	'_continue8': {
